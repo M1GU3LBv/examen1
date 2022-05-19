@@ -1,0 +1,116 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    
+    
+    width: 100%;
+    height: 69rem;
+    background-color: rgb(199, 146, 78);
+}
+header{
+    width: 100%;
+    display: flex;
+    height:5rem;
+}
+.side1{
+    width: 25%;
+    background-color: black;
+    color: white;
+    align-items: center;
+   
+    line-height: 5rem;
+}
+
+.container i{
+    margin-left: 40%;
+}
+.side2{
+    color: white;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    background-color: gray;
+
+}
+
+.content{
+    width: 100%;
+    display: flex;
+   
+}
+.left{
+    background-color: orange;
+    width: 25%;
+    height: 64rem;
+    display: flex;
+    flex-direction: column;
+}
+.orangebox{
+    color: white;
+    height: 5rem;
+    border-bottom: solid rgb(255, 255, 255) 1px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: center;
+
+}
+
+.derecha{
+    width: 75%;
+    
+    background-color: aquamarine;
+    height: 64rem;
+}
+.one{
+    width: 100%;
+    margin-top: 1rem;
+    background-color: black;
+    height: 5rem;
+}
+.two{
+    display: flex;
+    gap: 1rem;
+    margin-left: 15%;
+    margin-top: 2rem;
+    
+}
+.box{
+    width: 20%;
+    height: 5rem;
+    background-color: yellow;
+    
+    
+ 
+}
+.three{
+    display: flex;
+    gap: 1rem;
+    margin-left: 15%;
+    margin-top: 2rem;
+}
+.boxes{
+    width: 41.5%;
+    height: 18rem;
+    background-color: yellow;
+}
+.four{
+    display: flex;
+    gap: 1rem;
+    margin-left: 15%;
+    margin-top: 2rem;
+}
+.a{
+width: 50%;
+background-color: black;
+height: 10rem;
+
+}
+.b{
+    width: 33%;
+    background-color: black;
+    height: 10rem;
+}
